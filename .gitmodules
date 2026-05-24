@@ -5,6 +5,3 @@
 [submodule "Rd2md"]
 	path = Rd2md
 	url = https://github.com/quantsch/rd2md
-[submodule "Strategy"]
-	path = Strategy
-	url = https://github.com/cran/Strategy
